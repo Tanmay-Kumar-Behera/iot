@@ -1,0 +1,4 @@
+Timestamp,Temperature,Humidity,Soil Moisture,Rainfall,Irrigation Status
+2025-04-09 20:09:23.229366,38.46,81.22,279,False,ON
+2025-04-09 20:09:33.231694,21.83,73.83,250,True,OFF
+2025-04-09 20:09:43.234326,36.19,67.96,757,True,OFF
